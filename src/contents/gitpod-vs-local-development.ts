@@ -146,7 +146,7 @@ export const setupDetails = {
       },
       {
         term: "Set up a new computer",
-        data: ["only needs is a browser"],
+        data: ["only needs a browser"],
       },
       {
         term: "Contribute to open-source projects",
